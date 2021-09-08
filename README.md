@@ -1,2 +1,4 @@
 # Harry-Issues
-Issue for the moderation bot Guardian Harry!
+Issue's for the moderation bot Guardian Harry!
+
+Hello reader, welcome in this repository
